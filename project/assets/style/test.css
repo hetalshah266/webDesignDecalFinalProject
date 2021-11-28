@@ -1,0 +1,92 @@
+html{
+	background-color: #968366;
+	color: whitesmoke;
+	font-family: 'Poppins';
+}
+
+
+.nav{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	padding: 10px;
+	margin: 20px 10px 0px 10px;
+	border-width: 1px;
+}
+.nav-item{
+	padding-left: 75px;
+	padding-right: 75px;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+	text-decoration: none;
+	color: whitesmoke;
+}
+a:hover{
+	cursor: pointer;
+	text-decoration: underline;
+}
+.content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#title{
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end;
+	justify-content: center;
+	font-size: 60px;
+	padding-bottom: 40px;
+}
+
+ul{
+	background-color: green;
+	width: 75%;
+	padding: 50px;
+}
+
+.hidden {
+	display: none;
+}
+
+
+
+#toggle-button {
+	padding: 11px 31px;
+	margin: 20px 0;
+	border: 1px solid #b3b3b3;
+	border-radius: 31px;
+	font-size: 12px;
+	color: #e6e6e6;
+	text-transform: uppercase;
+	background: transparent;
+}
+
+#toggle-button:hover {
+	font-weight: bold;
+	font-size: 13px;
+	color: #fff;
+	border-color: #fff;
+}
+
+#toggle-button:focus {
+	outline: none;
+}
+
+#toggle-button:active {
+	border-color: #838383;
+	font-weight: normal;
+	font-size: 12px;
+	color: #ccc;
+}
+
+/* Problem 3.1 */
+.hidden {
+	display: none;
+}

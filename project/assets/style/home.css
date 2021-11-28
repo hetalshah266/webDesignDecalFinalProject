@@ -1,0 +1,92 @@
+html{
+	background-image: url("../imgs/bookShelf3.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color: whitesmoke;
+	font-family: 'Poppins';
+}
+
+
+.nav{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	padding: 10px;
+	margin: 20px 10px 0px 10px;
+	border-width: 1px;
+}
+.nav-item{
+	padding-left: 75px;
+	padding-right: 75px;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+	text-decoration: none;
+	color: whitesmoke;
+}
+a:hover{
+	cursor: pointer;
+	text-decoration: underline;
+}
+.content{
+	margin-top: 65px;
+	margin-bottom: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+img{
+	width: 400px;
+	border-radius: 10px;
+	align-self: center;
+	border-style: solid;
+	border-color: #826644;
+	border-width: 0.1px;
+	
+
+
+
+}
+
+.book{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	margin: 25px;
+
+
+}
+
+.box1 {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	height: 200px;
+	position: relative;
+	align-self: center;
+	background-color: #362419;
+
+}
+
+
+#title{
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end;
+	justify-content: center;
+	font-size: 60px;
+	padding-bottom: 40px;
+}
+p{
+	display: flex;
+	justify-content: center;
+	align-content: flex-start;
+	font-size: 20px;
+	flex-wrap: wrap;
+	padding-top: 100px;
+}
