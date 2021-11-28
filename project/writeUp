@@ -1,0 +1,26 @@
+Write-up
+The first feature I used was pseudo-selectors. I used them to take the user to other pages on my website and to provide some user interaction on the list page. I used the hover pseudo-selector on the list page that woud flip from the cover of the book to some text about the book. This helped focus the user’s attention on one particular book at a time.
+The second feature I used a javascript button on the favorites page that hides and shows my comments about each of my favorite books. I added the button so the user could decide if they want to read my comments or not (to prevent spoilers). The button also allows the user to first see my favorite book choices and then read my reasoning, which I think is more interesting and less overwhelming.
+
+
+Picture Citations
+
+Home
+-Book shelf: https://unsplash.com/photos/YLSwjSy7stw
+-Book: https://unsplash.com/photos/DCzpr09cTXY
+
+Books Read
+-All the bright places: https://images-na.ssl-images-amazon.com/images/I/A17ol+VOLhL.jpg
+-The book thief: https://images-na.ssl-images-amazon.com/images/I/9123eop9gIL.jpg
+-A thousand splendid suns: https://images-na.ssl-images-amazon.com/images/I/710josR6wvL.jpg
+-Notes from a small island: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479653223l/28._SY475_.jpg
+-Secrets of the Savanna: https://images-na.ssl-images-amazon.com/images/I/419j3ULKbyL.jpg
+-The bluest eye: https://images-na.ssl-images-amazon.com/images/I/51rf5f8xcWL.jpg
+-Night Circus: https://images-na.ssl-images-amazon.com/images/I/81mSNsiLjLL.jpg
+-The dinner: https://blogs.lfpl.org/readers/wp-content/uploads/sites/3/2015/01/dinnerkoch.jpg
+-The road: https://images-na.ssl-images-amazon.com/images/I/51yea92uerL.jpg
+
+Favorites
+-All the bright places: https://images-na.ssl-images-amazon.com/images/I/A17ol+VOLhL.jpg
+-The book thief: https://images-na.ssl-images-amazon.com/images/I/9123eop9gIL.jpg
+-Night Circus: https://images-na.ssl-images-amazon.com/images/I/81mSNsiLjLL.jpg
